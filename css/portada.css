@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin-top: 50px;
+    text-align: center;
+  
+}
+h2, h3{
+    font-family: sans-serif;
+}
+
+.id{
+    text-align: center;
+    margin-top: 10px;
+}
+.sof {
+    margin-top: 100px;
+    text-align: center;
+}
+.aprendiz, .instructor{
+    margin-top: 100px;
+    text-align: center;
+}
+.name, .ins{
+    text-align: center;
+    margin-top: 10px;
+}
+.sena { 
+    text-align: center;
+    margin-top: 100px;
+}
+.centro, .pit, .año{
+    margin-top: 10px;
+}
+.aprendiz, .instructor, .id{
+    font-family: sans-serif;
+}
