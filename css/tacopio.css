@@ -1,0 +1,57 @@
+h1, h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+td{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+}
+table{
+    margin: auto;
+    border-collapse: collapse;
+}
+.inventario{
+    background-color: #dcdcdc;
+    font-size: 20px;
+    font-family: arial Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.amarillo{
+    background-color: gold;
+}
+.gris{
+    background-color: #dcdcdc;
+    text-align: left;
+}
+.ver{
+    background-color: aquamarine;
+}
+.azul{
+    background-color: #6495ed;
+}
+.verde{
+    background-color: #90ee90;
+}
+.claro{
+    background-color: #E5F6C9;
+    text-align: left;
+}
+input{
+    width: 98%;
+    height: 25px;
+}
+.tex{
+    text-align: left;
+}
+input:focus{
+    outline: none;
+}
+table:hover{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.boton{
+    align-items: center;
+    justify-content: center;
+    
+}
