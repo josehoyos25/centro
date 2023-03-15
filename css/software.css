@@ -44,3 +44,9 @@ h1{
     font-size: 45px;
     font-family: sans-serif;
 }
+h2{
+    color: black;
+    font-size: 2rem;
+    font-family: sans-serif;
+    float: left;
+}
