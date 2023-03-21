@@ -55,3 +55,6 @@ table:hover{
     justify-content: center;
     
 }
+textarea{
+    resize: none;
+}
