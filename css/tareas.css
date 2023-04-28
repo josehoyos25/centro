@@ -1,0 +1,47 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+table{
+    margin-top: 100px;
+    border-collapse: collapse;
+    align-items: center;
+    width: 80%;
+    margin-left: 100px;
+}
+h3{
+    margin-top: 50px;
+    text-align: center;
+    font-family: sans-serif;
+}
+table th{
+    font-size: 1.2em;
+}
+th,td{
+    font-size: 1em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.left{
+    text-align: left;
+}
+.size{
+    font-size: 1em;
+}
+.yellow{
+    background-color: yellow;
+}
+.verde{
+    background-color: yellowgreen;
+    font-weight: 550;
+}
+.blue{
+    background-color: #56BDFF ;
+}
+.orange{
+    background-color: #FFE197 ;
+}
+.pendiente{
+    background-color: yellow;
+    font-weight: 550;
+}
