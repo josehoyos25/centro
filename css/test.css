@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+h1{
+    margin-top: 30px;
+    text-align: center;
+}
+.uno{
+    justify-content: center;
+    padding: 15px 10px;
+}
+.dos{
+    background-color: paleturquoise;
+    width: 40%;
+    height: 500px;
+    margin: 0 auto;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+select{
+    width: 500px;
+    height: 40px;
+    cursor: pointer;
+}
+p{
+    font-size: 1.5em;
+    text-align: center;
+}
+button{
+    margin-top: 30px;
+    background-color: coral;
+    width: 100px;
+    font-size: 1.1em;
+    border-radius: 10px;
+    cursor: pointer;
+}
+@media (max-width: 1215px){
+   .dos{
+    background-color: paleturquoise;
+    width: 40%;
+    height: 400px;
+    margin: 0 auto;
+}
+select{
+    width: 260px;
+    height: 40px;
+}
+p{
+    font-size: 1em;
+    text-align: center;
+} 
+}
+@media (max-width: 660px){
+    select{
+        width: 200px;
+        height: 40px;
+    }
+}
+@media (max-width: 530px){
+    select{
+        width: 100px;
+        height: 40px;
+    }
+}

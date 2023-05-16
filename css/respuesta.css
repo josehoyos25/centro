@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+h1{
+    margin-top: 30px;
+    text-align: center;
+}
+.uno{
+    justify-content: center;
+    padding: 15px 10px;
+}
+.dos{
+    background-color: paleturquoise;
+    width: 40%;
+    height: 600px;
+    margin: 0 auto;
+}
+p{
+    margin: 30px;
+    font-size: 1.5em;
+    text-align: center;
+}
